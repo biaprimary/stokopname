@@ -1,0 +1,1 @@
+{{$itemcheckstock->stock_item}}
